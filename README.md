@@ -7,4 +7,6 @@ manually tweaked to fix all remaining issues.
 
 In order to use this theme, install the [Color Theme Editor](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.VisualStudio2019ColorThemeEditor) plugin.
 
+Note: You may have to restart Visual Studio once after importing the theme as it sometimes doesn't apply the first time (perhaps a bug in the theme editor?)
+
 ![VS2017 blue theme](theme.png)
