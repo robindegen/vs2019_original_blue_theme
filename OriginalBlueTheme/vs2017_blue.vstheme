@@ -8785,7 +8785,7 @@
     </Category>
     <Category Name="ThemedDialog" GUID="{5e04b2a9-e443-48db-8791-63a2a71cfbd7}">
       <Color Name="WindowPanel">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFBFBFB" />
         <Foreground Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="WindowBorder">
@@ -8807,8 +8807,8 @@
         <Background Type="CT_RAW" Source="FFA2A4A5" />
       </Color>
       <Color Name="SelectedItemActive">
-        <Background Type="CT_RAW" Source="FF007ACC" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFEFEFE" />
+        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="SelectedItemInactive">
         <Background Type="CT_RAW" Source="FFE1E1E1" />
@@ -8894,13 +8894,13 @@
         <Background Type="CT_RAW" Source="FFFF0000" />
       </Color>
       <Color Name="ActionButtonBackground">
-        <Background Type="CT_RAW" Source="FFFCFCFC" />
+        <Background Type="CT_RAW" Source="FFEEEBEB" />
       </Color>
       <Color Name="ActionButtonStroke">
-        <Background Type="CT_RAW" Source="FFFCFCFC" />
+        <Background Type="CT_RAW" Source="FFEEEBEB" />
       </Color>
       <Color Name="ActionButtonStrokeHover">
-        <Background Type="CT_RAW" Source="FFFCFCFC" />
+        <Background Type="CT_RAW" Source="FFEEEBEB" />
       </Color>
       <Color Name="ActionButtonStrokeActive">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -8909,7 +8909,7 @@
         <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="ActionButtonTextActive">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="StartWindowDescription">
         <Foreground Type="CT_RAW" Source="FF4F4F4F" />
