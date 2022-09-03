@@ -10,3 +10,7 @@ In order to build this theme, install the [Color Theme Designer](https://marketp
 If you merely wish to use the theme, you can install the latest vsix plugin from the releases tab.
 
 ![VS2017 blue theme](theme.png)
+
+Acknowledgements
+==============
+Special thanks to kirsan31 for additional maintenance and fixes
